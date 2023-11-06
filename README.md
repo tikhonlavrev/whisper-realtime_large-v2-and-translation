@@ -1,7 +1,7 @@
 # Modified Real Time Whisper Transcription Enchanced with Large-v2 option and Translation
 Supporting large-v2 and working native translation function
 
-!Documentation and Usage
+# Documentation and Usage
 Coming soon
 
 # Real Time Whisper Transcription
